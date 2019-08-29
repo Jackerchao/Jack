@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<Environment>
+    <Variable>
+        <Name>ENV_BATCH_DETAILS_FILE</Name>
+        <Value>..\..\DataSheets\AutoTest.xlsx</Value>
+        <Description>Batch Path path</Description>
+    </Variable>
+    <Variable>
+        <Name>ENV_RESULTS_FILE_PATH</Name>
+        <Value>E:\AutoTest\Reports</Value>
+        <Description>QTP Result path where the QTP Files Reports are present</Description>
+    </Variable>
+    <Variable>
+        <Name>ENV_BP_LIBRARY</Name>
+        <Value>..\..\Library\BPC Library.vbs</Value>
+        <Description>Path for BP Library</Description>
+    </Variable>
+    <Variable>
+        <Name>ENV_COMMON_FUNCTIONS</Name>
+        <Value>..\..\Library\Common Function.vbs</Value>
+        <Description>Path for Common Library</Description>
+    </Variable>
+    <Variable>
+        <Name>ENV_SUPPORT_FILES</Name>
+        <Value></Value>
+        <Description>Folder For Support Files</Description>
+    </Variable>
+    <Variable>
+        <Name>ENV_OBJECT_REPOSITORY</Name>
+        <Value>..\..\Library\Object Repository.tsr</Value>
+        <Description>Path for Object Repository</Description>
+    </Variable>
+    <Variable>
+        <Name>ENV_INTILIZATION_FILES</Name>
+        <Value>..\..\Library\Initialization Script.vbs</Value>
+        <Description>Path for Initialization file Function</Description>
+    </Variable>
+    <Variable>
+        <Name>USE_ENV_URL</Name>
+        <Value>http://www.baidu.com</Value>
+        <Description>URL</Description>
+    </Variable>
+    <Variable>
+        <Name>ENV_SQUESTION</Name>
+        <Value>TRUE</Value>
+        <Description>SQUESTION</Description>
+    </Variable>
+    <Variable>
+        <Name>USE_ENV_USERNAME</Name>
+        <Value>TRUE</Value>
+        <Description>USER NAME</Description>
+    </Variable>
+    <Variable>
+        <Name>USE_ENV_PASSWORD</Name>
+        <Value>TRUE</Value>
+        <Description>PASSWORD</Description>
+    </Variable>
+
+</Environment>

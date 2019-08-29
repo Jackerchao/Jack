@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href='Report.xsl' type='text/xsl'?>
+<Report>
+  <TestSuite StartTime="2019/8/20 21:51:49" Desc="AutoTest" EndTime="2019/8/20 21:51:55">AutoTest<TestCase StartTime="2019/8/20 21:51:50" Desc="BaiDuLogin" Status="1" EndTime="2019/8/20 21:51:55">BaiDuLogin<BP StartTime="2019/8/20 21:51:50" Desc="Broswer_Launch" EndTime="2019/8/20 21:51:53">Broswer_Launch<Result Status="1">URL launched successfully</Result><Result ErrorScreenShotPath="..\Reports\_errorImages\BaiDuLogin_Broswer_Launch_2019_8_20 21_51_53.png"></Result></BP><BP StartTime="2019/8/20 21:51:55" Desc="CloseBrowser" EndTime="2019/8/20 21:51:55">CloseBrowser<Result Status="1">URL launched successfully</Result><Result ErrorScreenShotPath="..\Reports\_errorImages\BaiDuLogin_CloseBrowser_2019_8_20 21_51_55.png"></Result></BP></TestCase></TestSuite>
+</Report>

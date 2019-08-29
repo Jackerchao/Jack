@@ -1,0 +1,121 @@
+BODY
+{
+}
+SPAN
+{
+    FONT-WEIGHT: bold;
+    WIDTH: 100%;
+    COLOR: #6666cc;
+    BORDER-BOTTOM: #3366cc 1px solid;
+    POSITION: static;
+    BACKGROUND-COLOR: gainsboro;
+}
+.TABLEHEAD
+{
+    width: 100%;
+    border: 0;
+    BORDER-RIGHT: #3366cc 1px solid;
+    BORDER-TOP: #3366cc 1px solid;
+    BORDER-LEFT: #3366cc 1px solid;
+    BORDER-BOTTOM: #3366cc 1px solid;
+}
+.Batch
+{
+    width: 100%;
+    border: 0;
+    BORDER-RIGHT: #696969 0px solid;
+    BORDER-TOP: #696969 0px solid;
+    BORDER-LEFT: #696969 0px solid;
+    BORDER-BOTTOM: #696969 0px solid;
+    FONT-FAMILY: "ARIAL";
+    FONT-SIZE: 14px;
+}
+
+.TestCase
+{
+      width: 100%;
+      /*border: 1px;
+      BORDER-RIGHT: #696969 2px solid;
+      BORDER-TOP: #696969 2px solid;
+      BORDER-LEFT: #696969 2px solid;
+      BORDER-BOTTOM: #696969 2px solid;
+      BACKGROUND-COLOR: #ecf3ff;*/
+      FONT-FAMILY: "ARIAL";
+      FONT-SIZE: 13px;
+      background-color: #ece3ff;
+}
+.ABP
+{
+     width: 100%;
+     border: 0;
+     BORDER-RIGHT: #696969 0px solid;
+     BORDER-TOP: #696969 0px solid;
+     BORDER-LEFT: #696969 0px solid;
+     BORDER-BOTTOM: #696969 0px solid;
+     FONT-FAMILY: "ARIAL";
+     FONT-SIZE: 12px;
+}
+.BP
+{
+     width: 100%;
+     border: 0;
+     BORDER-RIGHT: #696969 0px solid;
+     BORDER-TOP: #696969 0px solid;
+     BORDER-LEFT: #696969 0px solid;
+     BORDER-BOTTOM: #696969 0px solid;
+     FONT-FAMILY: "ARIAL";
+     FONT-SIZE: 12px;
+}
+.MESSAGE
+{
+     width: 100%;
+     border: 0;
+     BORDER-RIGHT: #696969 0px solid;
+     BORDER-TOP: #696969 0px solid;
+     BORDER-LEFT: #696969 0px solid;
+     BORDER-BOTTOM: #696969 0px solid;
+     FONT: smallcaption;
+}
+.M1
+{
+    background-color: #F5F5F5;
+}
+.M2
+{
+    background-color: #FFFFFF;
+}
+.PASSED
+{
+     FONT-WEIGHT: bold;
+     COLOR: #009933;
+     width: 10%;
+}
+.FAILED
+{
+     FONT-WEIGHT: bold;
+     COLOR: #ff3333;
+     width: 10%;
+}
+.WARNINGS
+{
+     FONT-WEIGHT: bold;
+     COLOR: #FF8C00;
+     width: 10%;
+}
+.No Run
+{
+     FONT-WEIGHT: bold;
+     COLOR: #800080;
+     width: 10%;
+}
+.MESSAGE
+{
+     FONT-WEIGHT: bold;
+     width: 40%;
+}
+.ADDITION_INFORMATION
+{
+     FONT-WEIGHT: bold;
+     COLOR: #3B9C9C;
+     width: 10%;
+}
